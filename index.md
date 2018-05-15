@@ -4,7 +4,7 @@
 ### Sanguine's Startup Utilities
 
 A simple Windows program made to execute various things after the startup of your System.
-It can be used to open your daily working environment or to greet the whole room with your daily dose of your favourite song!
+It can be used to open your daily working environment or to greet the whole office with the daily dose of your favourite song!
 You can also use it to run any CMD command.
 
 Any wishes and improvments are highly whished to be posted in my  <a href="">Improvements and Ideas</a> thread.
