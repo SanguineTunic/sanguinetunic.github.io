@@ -6,7 +6,7 @@
 A simple Windows program made to execute various things after the startup of your System.
 It can be used to open your daily used working environment or to greet yourself with your daily dose of your favourite song!
 
-<img src="{{ site.baseurl }}/images/interface.png">
+<img src="images/interface.png">
 
 ### Jekyll Themes
 
