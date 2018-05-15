@@ -6,7 +6,8 @@
 A simple Windows program made to execute various things after the startup of your System.
 It can be used to open your daily used working environment or to greet yourself with your daily dose of your favourite song!
 
-![The Interface]({{ site.url }}/images/interface.png)
+<<img src="{{ site.interface }}>>
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SanguineTunic/sanguinetunic.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
