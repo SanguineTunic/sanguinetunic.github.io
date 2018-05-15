@@ -13,3 +13,7 @@ And a Linux and/or Mac version might be coming, if enough people request it.
 Here you can see the current two sides of the options Menu.
 
 <img src="images/su_interface.png" alt="The current layout of the Interface."> <img src="images/su_advanced.png">
+
+### Future Projects
+
+You can post Wishes and Ideas for future Projects in my <a href="">Roadmap</a> thread.
