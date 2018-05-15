@@ -1,29 +1,10 @@
 ## Current Projects
 
 
-### Markdown
+### Sanguine's Startup Utilities
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A simple Windows program made to execute various things after the startup of your System.
+It can be used to open your daily used working environment or to greet yourself with your daily dose of your favourite song!
 
 ### Jekyll Themes
 
