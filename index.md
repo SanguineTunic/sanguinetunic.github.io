@@ -1,6 +1,8 @@
-## Current Projects                                      
+## Projects                                     
 
-### Sanguine's Startup Utilities
+### Current Projects
+
+#### Sanguine's Startup Utilities
 
 A simple Windows program made to execute various things after the startup of your System.
 It can be used to open your daily working environment or to greet the whole office with the daily dose of your favourite song!
