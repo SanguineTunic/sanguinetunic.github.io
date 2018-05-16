@@ -1,4 +1,4 @@
-## Current Projects                                             Download the Collection!
+## Current Projects                                      
 
 ### Sanguine's Startup Utilities
 
