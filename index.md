@@ -1,7 +1,6 @@
 ## Current Projects
 
-<img src="images/su_icon.png" width="30" height="30">
-### Sanguine's Startup Utilities 
+### Sanguine's Startup Utilities <img src="images/su_icon.png" width="30" height="30">
 
 A simple Windows program made to execute various things after the startup of your System.
 It can be used to open your daily working environment or to greet the whole office with the daily dose of your favourite song!
