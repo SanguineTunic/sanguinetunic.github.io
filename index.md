@@ -1,19 +1,19 @@
 ## Current Projects
 
 
-### Sanguine's Startup Utilities
+### Sanguine's Startup Utilities <img src="images/su_icon.png">
 
 A simple Windows program made to execute various things after the startup of your System.
 It can be used to open your daily working environment or to greet the whole office with the daily dose of your favourite song!
 You can also use it to run any CMD command or to automatically shutdown your system after a fixed time.
 
-Any wishes and improvments are highly whished to be posted in my  <a href="">Improvements and Ideas</a> thread.
+Any wishes and improvments are highly whished to be posted in my  <a href="https://www.tapatalk.com/groups/sanguinetunic/suggestions-and-wishes-t2.html">Suggestions and Wishes</a> thread.
 And a Linux and/or Mac version might be coming, if enough people request it.
 
-Here you can see the current two sides of the options Menu.
+Here you can see the current two sides of the options Menu:
 
 <img src="images/su_interface.png" alt="The current layout of the Interface."> <img src="images/su_advanced.png">
 
 ### Future Projects
 
-You can post Wishes and Ideas for future Projects in my <a href="">Roadmap</a> thread.
+You can post Wishes and Ideas for future Projects in my <a href="https://www.tapatalk.com/groups/sanguinetunic/roadmap-t3.html">Roadmap</a> thread.
