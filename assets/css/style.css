@@ -278,14 +278,6 @@ Full-Width Styles
   width: 100%;
 }
 
-#project_title {
-  margin: 0;
-  color: #fff;
-  font-size: 27px;
-  font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
-}
-
 .inner {
   position: relative;
   max-width: 750px;
@@ -306,6 +298,14 @@ Full-Width Styles
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
+}
+
+#project_title {
+  margin: 0;
+  color: #fff;
+  font-size: 27px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
 }
 
 #header_wrap {
