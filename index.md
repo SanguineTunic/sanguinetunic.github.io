@@ -15,10 +15,8 @@ Here you can see the current two pages of the GUI with all the settings:
 
 <img src="images/su_interface.png" alt="The current layout of the Interface."> <img src="images/su_advanced.png">
 
-<form>
-<input type="button" class="styled_button" value="Windows" onclick="window.location.href="https://github.com/SanguineTunic/StartupUtilites/releases"/>
-<input type="button" class="styled_button" value="Coming Soon" onclick="window.location.href=""/>  
-</form>
+<button name="SU_win" class="styled_button" onclick="https://github.com/SanguineTunic/StartupUtilites/releases">Download .exe</button>
+<button name="SU_linux" class="styled_button" onclick="">Coming Soon</button>
 
 ### Future Projects
 
