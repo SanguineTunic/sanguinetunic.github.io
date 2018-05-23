@@ -62,14 +62,6 @@ table {
 Theme Styles
 *******************************************************************************/
 
-input.styled_button {
-    background-color: white;
-    color: black;
-    border: 2px solid #e7e7e7;
-}
-
-input.styled_button:hover {background-color: #e7e7e7;}
-
 body {
   box-sizing: border-box;
   color:#373737;
@@ -79,6 +71,14 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
+
+styled_button {
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+
+styled_button:hover {background-color: #e7e7e7;}
 
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
