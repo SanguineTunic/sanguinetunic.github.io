@@ -62,6 +62,14 @@ table {
 Theme Styles
 *******************************************************************************/
 
+input.styled_button {
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+
+input.styled_button:hover {background-color: #e7e7e7;}
+
 body {
   box-sizing: border-box;
   color:#373737;
@@ -284,14 +292,6 @@ Full-Width Styles
   padding: 20px 10px;
   margin: 0 auto;
 }
-
-input.styled_button {
-    background-color: white;
-    color: black;
-    border: 2px solid #e7e7e7;
-}
-
-input.styled_button:hover {background-color: #e7e7e7;}
 
 #forkme_banner {
   display: block;
