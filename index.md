@@ -1,3 +1,7 @@
+## Polls
+
+Currently no poll is running. For further Infos please visit <a href="https://www.tapatalk.com/groups/sanguinetunic">My Forum</a>.
+
 ## Projects                                     
 
 ### Current Projects
