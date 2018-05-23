@@ -15,7 +15,7 @@ Here you can see the current two pages of the options Menu:
 
 <img src="images/su_interface.png" alt="The current layout of the Interface."> <img src="images/su_advanced.png">
 
-<button type="button" href="{{ site.github.tar_url }}">Download .exe</button>
+<button type="button" href="{{ site.github.tar_url }}">Download WIN</button> <button type="button" href="{{ site.github.tar_url }}">Coming Soon</button>
 
 ### Future Projects
 
