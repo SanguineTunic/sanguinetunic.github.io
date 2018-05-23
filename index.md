@@ -15,6 +15,8 @@ Here you can see the current two sides of the options Menu:
 
 <img src="images/su_interface.png" alt="The current layout of the Interface."> <img src="images/su_advanced.png">
 
+<button type="button">Download</button>
+
 ### Future Projects
 
 You can post Wishes and Ideas for future Projects in my <a href="https://www.tapatalk.com/groups/sanguinetunic/roadmap-t3.html">Roadmap</a> thread.
