@@ -278,6 +278,14 @@ Full-Width Styles
   width: 100%;
 }
 
+#project_title {
+  margin: 0;
+  color: #fff;
+  font-size: 27px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+}
+
 .inner {
   position: relative;
   max-width: 750px;
@@ -311,14 +319,6 @@ Full-Width Styles
 
 #header_wrap .inner {
   padding: 50px 10px 30px 10px;
-}
-
-#project_title {
-  margin: 0;
-  color: #fff;
-  font-size: 42px;
-  font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
 }
 
 #project_tagline {
@@ -411,7 +411,7 @@ Small Device Styles
   }
 
   #project_title {
-  font-size: 32px;
+  font-size: 27px;
   }
 
   h1 {
@@ -459,7 +459,7 @@ Small Device Styles
   }
 
   #project_title {
-  font-size: 28px;
+  font-size: 27px;
   }
 
   h1 {
