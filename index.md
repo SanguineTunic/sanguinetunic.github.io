@@ -1,13 +1,3 @@
-<style>
-  .button4 {
-    background-color: white;
-    color: black;
-    border: 2px solid #e7e7e7;
-  }
-
-.button4:hover {background-color: #e7e7e7;}
-</style>
-
 ## Projects                                     
 
 ### Current Projects
