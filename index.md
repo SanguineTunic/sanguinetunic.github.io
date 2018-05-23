@@ -1,7 +1,3 @@
-## Polls
-
-Currently no poll is running. For further Infos please visit <a href="https://www.tapatalk.com/groups/sanguinetunic">My Forum</a>.
-
 ## Projects                                     
 
 ### Current Projects
@@ -24,3 +20,7 @@ Here you can see the current two pages of the options Menu:
 ### Future Projects
 
 You can post Wishes and Ideas for future Projects in my <a href="https://www.tapatalk.com/groups/sanguinetunic/roadmap-t3.html">Roadmap</a> thread.
+
+## Polls
+
+Currently no poll is running. For further Infos please visit <a href="https://www.tapatalk.com/groups/sanguinetunic">My Forum</a>.
