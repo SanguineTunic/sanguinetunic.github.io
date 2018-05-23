@@ -15,8 +15,8 @@ Here you can see the current two pages of the GUI with all the settings:
 
 <img src="images/su_interface.png" alt="The current layout of the Interface."> <img src="images/su_advanced.png">
 
-<a href="https://github.com/SanguineTunic/StartupUtilites/releases"><button>Download .exe</button></a>
-<a href=""><button>Coming Soon</button></a>
+<a href="https://github.com/SanguineTunic/StartupUtilites/releases"><button class="styled_button">Download .exe</button></a>
+<a href=""><button class="styled_button">Coming Soon</button></a>
 
 ### Future Projects
 
