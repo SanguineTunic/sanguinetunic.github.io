@@ -15,7 +15,8 @@ Here you can see the current two pages of the options Menu:
 
 <img src="images/su_interface.png" alt="The current layout of the Interface."> <img src="images/su_advanced.png">
 
-<button type="button" href="https://github.com/SanguineTunic/StartupUtilites/releases">Windows</button> <button type="button" href="">Coming Soon</button>
+<button type="button" href="https://github.com/SanguineTunic/StartupUtilites/releases/download/v1.2/SanguinesStartupUtils.exe">Windows</button> 
+<button type="button" href="">Coming Soon</button>
 
 ### Future Projects
 
