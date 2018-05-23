@@ -2,7 +2,7 @@
 
 ### Current Projects
 
-#### Sanguine's Startup Utilities
+#### Sanguine's Startup Utilities <a href="https://github.com/SanguineTunic/StartupUtilites">(Repository)</a>
 
 A simple Windows program made to execute various things after the startup of your System.
 It can be used to open your daily working environment or to greet the whole office with the daily dose of your favourite song!
