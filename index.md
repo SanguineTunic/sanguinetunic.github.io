@@ -2,7 +2,7 @@
 
 ### Current Projects
 
-#### Sanguine's Startup Utilities <a href="https://github.com/SanguineTunic/StartupUtilites">(Repository)</a>
+#### Sanguine's Startup Utilities <a href="https://github.com/SanguineTunic/StartupUtilites" target="_blank">(Repository)</a>
 
 A simple Windows program made to execute various things after the startup of your System.
 It can be used to open your daily working environment or to greet the whole office with the daily dose of your favourite song!
@@ -15,13 +15,13 @@ Here you can see the current two pages of the GUI with all the settings:
 
 <img src="images/su_interface.png" alt="The current layout of the Interface."> <img src="images/su_advanced.png">
 
-<a href="https://github.com/SanguineTunic/StartupUtilites/releases"><button class="styled_button">Download .exe</button></a>
-<a href=""><button class="styled_button">Coming Soon</button></a>
+<a href="https://github.com/SanguineTunic/StartupUtilites/releases" target="_blank"><button class="styled_button">Download .exe</button></a>
+<a href="" target="_blank"><button class="styled_button">Coming Soon</button></a>
 
 ### Future Projects
 
-You can post Wishes and Ideas for future Projects in my <a href="https://www.tapatalk.com/groups/sanguinetunic/roadmap-t3.html">Roadmap</a> thread.
+You can post Wishes and Ideas for future Projects in my <a href="https://www.tapatalk.com/groups/sanguinetunic/roadmap-t3.html" target="_blank">Roadmap</a> thread.
 
 ## Polls
 
-Currently no poll is running. For further Infos please visit <a href="https://www.tapatalk.com/groups/sanguinetunic">My Forum</a>.
+Currently no poll is running. For further Infos please visit <a href="https://www.tapatalk.com/groups/sanguinetunic" target="_blank">My Forum</a>.
