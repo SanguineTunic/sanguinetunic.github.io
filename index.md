@@ -1,3 +1,13 @@
+<style>
+  .button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+  }
+
+.button4:hover {background-color: #e7e7e7;}
+</style>
+
 ## Projects                                     
 
 ### Current Projects
@@ -15,8 +25,8 @@ Here you can see the current two pages of the Gui with all the settings:
 
 <img src="images/su_interface.png" alt="The current layout of the Interface."> <img src="images/su_advanced.png">
 
-<styled_button type="button" href="https://github.com/SanguineTunic/StartupUtilites/releases/download/v1.2/SanguinesStartupUtils.exe">Windows</styled_button> 
-<styled_button type="button" href="">Coming Soon</styled_button>
+<button4 type="button" href="https://github.com/SanguineTunic/StartupUtilites/releases/download/v1.2/SanguinesStartupUtils.exe">Windows</button4> 
+<button4 type="button" href="">Coming Soon</button4>
 
 ### Future Projects
 
