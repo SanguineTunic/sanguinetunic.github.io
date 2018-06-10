@@ -2,7 +2,7 @@
 
 ### Current Projects
 
-Nothing here for you? Just send a <a href="https://goo.gl/forms/kXL1K3GUjqfwaFOv2" target="_blank">commission</a>!
+Nothing here for you? Just send a free <a href="https://goo.gl/forms/kXL1K3GUjqfwaFOv2" target="_blank">commission</a>!
 
 #### Sanguine's Startup Utilities <a href="https://github.com/SanguineTunic/StartupUtilites" target="_blank">(Repository)</a>
 
