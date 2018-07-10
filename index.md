@@ -10,10 +10,10 @@ A simple Windows program made to execute various things after the startup of you
 It can be used to open your daily working environment or to set a gretting message in form of a .wav file.
 You can also use it to run any CMD command or to automatically shutdown your system after a fixed time.
 
-Any wishes and improvements can be posted in my <a href="https://www.tapatalk.com/groups/sanguinetunic/suggestions-and-wishes-t2.html">Suggestions and Wishes</a> thread.
+Any wishes and bug reports can be posted in my <a href="https://www.tapatalk.com/groups/sanguinetunic/suggestions-and-wishes-t2.html">Suggestions and Wishes</a> thread.
 A Linux and/or Mac version might be coming, if enough people request it.
 
-Here you can see the current two pages of the GUI with all the settings:
+Here you can see the current two pages of the GUI (can be opened from the system tray) with all the settings:
 
 <img src="images/su_interface.png" alt="The current layout of the Interface."> <img src="images/su_advanced.png">
 
